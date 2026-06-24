@@ -1,4 +1,4 @@
-# Looping with Condition Project
+# Condition with Looping  Project
 
 # Quiz Game 
 
